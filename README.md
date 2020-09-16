@@ -2,6 +2,9 @@
 
 Pride watch faces for the Apple Watch with watchOS 7+
 
+* [Contributing](https://github.com/ZicklePop/watchface-pride/blob/main/CONTRIBUTING.md)
+* [Code of conduct](https://github.com/ZicklePop/watchface-pride/blob/main/CODE_OF_CONDUCT.md)
+
 
 ## Download
 
