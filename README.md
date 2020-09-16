@@ -7,19 +7,19 @@ Pride watch faces for the Apple Watch with watchOS 7+
 
 Click a watch face to obtain it:
 
-[![agender][agenderImg]][agenderFile]
-[![aromantic][aromanticImg]][aromanticFile]
-[![asexual][asexualImg]][asexualFile]
-[![bisexual][bisexualImg]][bisexualFile]
-[![genderfluid][genderfluidImg]][genderfluidFile]
-[![genderqueer][genderqueerImg]][genderqueerFile]
-[![intersex][intersexImg]][intersexFile]
-[![lesbian][lesbianImg]][lesbianFile]
-[![lgbtqia][lgbtqiaImg]][lgbtqiaFile]
-[![nonbinary][nonbinaryImg]][nonbinaryFile]
-[![pansexual][pansexualImg]][pansexualFile]
-[![polysexual][polysexualImg]][polysexualFile]
-[![trans][transImg]][transFile]
+[lgbtqia ↓ ![lgbtqia][lgbtqiaImg]][lgbtqiaFile]
+[trans ↓ ![trans][transImg]][transFile]
+[agender ↓ ![agender][agenderImg]][agenderFile]
+[aromantic ↓ ![aromantic][aromanticImg]][aromanticFile]
+[asexual ↓ ![asexual][asexualImg]][asexualFile]
+[bisexual ↓ ![bisexual][bisexualImg]][bisexualFile]
+[genderfluid ↓ ![genderfluid][genderfluidImg]][genderfluidFile]
+[genderqueer ↓ ![genderqueer][genderqueerImg]][genderqueerFile]
+[intersex ↓ ![intersex][intersexImg]][intersexFile]
+[lesbian ↓ ![lesbian][lesbianImg]][lesbianFile]
+[nonbinary ↓ ![nonbinary][nonbinaryImg]][nonbinaryFile]
+[pansexual ↓ ![pansexual][pansexualImg]][pansexualFile]
+[polysexual ↓ ![polysexual][polysexualImg]][polysexualFile]
 
 [agenderFile]: https://github.com/ZicklePop/watchface-pride/blob/main/agender.watchface?raw=true
 [agenderImg]: https://github.com/ZicklePop/watchface-pride/blob/main/agender.png?raw=true
